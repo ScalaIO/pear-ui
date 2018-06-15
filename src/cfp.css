@@ -1,0 +1,4 @@
+.cfp {
+  display: flex;
+  flex-direction: column;
+}
