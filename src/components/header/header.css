@@ -1,0 +1,9 @@
+.header {
+  display: flex;
+  background-color: var(--dark-background, #000);
+}
+
+.header--title {
+  color: white;
+  font-size: 24px;
+}
