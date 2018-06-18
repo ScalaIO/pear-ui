@@ -25,3 +25,11 @@ To avoid this go to `Preferences: Open User Settings`, in the user settings choo
         "*.js": "javascriptreact"
     }
 ```
+
+## Developping locally
+
+you can use the following commands: 
+* `npm run start` starts a development server with change monitoring and
+  automatic reload 
+* `npm run build` builds the application into html/js/css and puts it in `public/`
+* `npm run test` if you cannot guess, get in touch before you contribute :)
